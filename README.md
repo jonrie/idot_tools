@@ -12,5 +12,5 @@ You can run the tool in Google Colab by clicking the link below:
 
 Here's an example of the notebook interface:
 
-![PLAID to IDOT notebooks](https://github.com/jonrie/idot_tools/blob/main/PLAID_to_IDOT_notebooks.png)
+![PLAID to IDOT notebooks](https://github.com/jonrie/idot_tools/blob/main/PLAID_to_IDOT_overview.png)
 
